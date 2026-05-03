@@ -1,2 +1,2 @@
 # kankan-config
-睇电视配置
+加埋一齐
